@@ -1,5 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 # Kodluyoruz Ilk Repo
@@ -33,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Patika Profilim
-[patika](https://app.patika.dev/recai)
+[[patika](https://app.patika.dev/recai)](https://app.patika.dev/recai)
