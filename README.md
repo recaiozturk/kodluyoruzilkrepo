@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Patika Profilim
-[(https://app.patika.dev/recai)](https://app.patika.dev/recai)
+[https://app.patika.dev/recai](https://app.patika.dev/recai)
